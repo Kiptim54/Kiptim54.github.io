@@ -1,12 +1,13 @@
-# WEB PORTFOLIO
+#  KIPTIM | WEB PORTFOLIO
 #### This is a web-portfolio created at Moringa school coding bootcamp.
-#### By **Brenda Kiptim**
+#### **Brenda Kiptim**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Project setup instructions
 
-## link to live site on GitHub Pages
 
+## link to live site on GitHub Pages
+https://kiptim54.github.io/
 ## Technologies Used
 HTML
 CSS
