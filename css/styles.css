@@ -1,7 +1,7 @@
 .container-fluid{
   text-align:center;
   background-image:url("../images/spiration dark.png")!important;
-
+  color:white;
 }
 .jumbotron{
   background-color:pink;
@@ -39,7 +39,8 @@ footer{
 .jumbotron h4{
   padding-top:0px;
   padding-bottom:20px;
-  background-image: url(images/web.jpeg);
+  color:grey;
+
 }
 .navleft{
   marging-left:20%
@@ -47,7 +48,7 @@ footer{
   padding-right:-50%;
 }
 .panel-heading{
-  background-color:black !important;
+  background-color:pink !important;
   color:white !important;
 }
 .responsive{
@@ -57,4 +58,18 @@ max-height:100%;
 .panel-default{
   width:100%;
   height:100%;
+}
+a:link{
+  color:white;
+}
+.me{
+  width:10%;
+  height:10%;
+  border-radius:50%;
+}
+.navbar-inverse{
+  color:pink !important;
+}
+h5{
+  color:pink;
 }
