@@ -1,4 +1,4 @@
-img{
+html{
   text-align:center;
 }
 .jumbotron{
@@ -9,5 +9,14 @@ img{
 }
 .about-me{
   text-align:center;
+
+}
+footer{
+  background-color:black;
+  color:white;
+  text-align:center;
+  padding:2%;
+}
+.panel panel-body{
 
 }
