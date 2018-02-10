@@ -1,79 +1,79 @@
-.container-fluid{
-  text-align:center;
-  background-image:url("../images/spiration dark.png")!important;
-  color:white;
+.container-fluid {
+  text-align: center;
+  background-image: url("../images/spiration dark.png") !important;
+  color: white;
 }
-.jumbotron{
-  background-color:	#DC143C;
-  color:black;
-  text-align:center;
-  font-family:cambria;
 
+.jumbotron {
+  background-color: #DC143C;
+  color: black;
+  text-align: center;
+  font-family: cambria;
+}
 
+.about-me {
+  text-align: center;
+  margin: 30px;
 }
-.about-me{
-  text-align:center;
-  margin:30px;
 
+footer {
+  background-color: #DC143C;
+  color: white;
+  text-align: center;
+  padding: 2px;
 }
-footer{
-  background-color:	#DC143C;
-  color:white;
-  text-align:center;
-  padding-top:2px;
-}
-.unorded-list li{
-  display:inline;
+
+.unorded-list li {
+  display: inline;
   list-style: none;
-
-
 }
-.icons{
-  width:2%;
-  height:2%;
-  background:	#DC143C;
-  display:inline-block;
 
-
+.icons {
+  width: 2%;
+  height: 2%;
+  background: #DC143C;
+  display: inline-block;
 }
-.jumbotron h4{
-  padding-top:0px;
-  padding-bottom:20px;
-  color:grey;
 
 }
-.navleft{
-  marging-left:20%
-  padding-left:-50%;
-  padding-right:-50%;
+
 }
-.panel-heading .panel-body{
-  background-color:	#DC143C !important;
-  color:white !important;
+
+.panel-heading {
+  color: #DC143C !important;
+  
 }
-.responsive{
-  max-width:100%;
-max-height:100%;
+
+.responsive {
+  max-width: 100%;
+  max-height: 100%;
 }
-.panel-default{
-  width:100%;
-  height:100%;
-  color:#DC143C;
+
+.panel-default {
+  width: 100%;
+  height: 100%;
+  color: #DC143C;
 }
-a:link{
-  color:white !important;
+
+a:link {
+  color: white !important;
 }
-a:hover{
-  color:	#DC143C !important;
+
+a:hover {
+  color: #DC143C !important;
+  border: 0px 0px 6px 0px !important;
 }
-.me{
-  width:10%;
-  height:10%;
-  border-radius:50%;
+
+.me {
+  width: 10%;
+  height: 10%;
+  border-radius: 50%;
 }
-.navbar-inverse{
-  color:	#DC143C !important;
+
+.navbar-inverse {
+  color: #DC143C !important;
 }
-h5{
-  color:	#DC143C;
+
+h5 {
+  color: #DC143C;
 }
