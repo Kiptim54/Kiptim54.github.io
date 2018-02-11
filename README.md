@@ -2,15 +2,15 @@
 #### This is a web-portfolio created at Moringa school coding bootcamp.
 #### **Brenda Kiptim**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is my first web portfolio created in Moringa school.
 ## Project setup instructions
-
-
+To view the page click:https://kiptim54.github.io/
 ## link to live site on GitHub Pages
 https://kiptim54.github.io/
 ## Technologies Used
 HTML
 CSS
+Bootstrap
 ## Support and contact details
 Contact me: Kiptim54@gmail.com
 ### License
