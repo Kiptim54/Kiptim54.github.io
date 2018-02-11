@@ -6,7 +6,7 @@
 
 .jumbotron {
   background-color: #DC143C;
-  color: black;
+  color: white;
   text-align: center;
   font-family: cambria;
 }
@@ -35,13 +35,8 @@ footer {
   display: inline-block;
 }
 
-}
-
-}
-
 .panel-heading {
-  color: #DC143C !important;
-  
+  background-color: #DC143C !important;
 }
 
 .responsive {
@@ -52,7 +47,7 @@ footer {
 .panel-default {
   width: 100%;
   height: 100%;
-  color: #DC143C;
+
 }
 
 a:link {
@@ -60,8 +55,8 @@ a:link {
 }
 
 a:hover {
-  color: #DC143C !important;
-  border: 0px 0px 6px 0px !important;
+  color: black !important;
+  border: 0px 0px 0px 0px !important;
 }
 
 .me {
@@ -76,4 +71,21 @@ a:hover {
 
 h5 {
   color: #DC143C;
+}
+
+.panel-body p {
+  color: black;
+}
+
+.panel-heading {
+  color: #DC143C;
+}
+
+a{
+  color: white;
+  ;
+}
+ .navleft{
+  float:right;
+  display:inline;
 }
