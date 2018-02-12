@@ -2,6 +2,7 @@
   text-align: center;
   background-image: url("../images/spiration dark.png") !important;
   color: white;
+  font-family: cambria;
 }
 
 .jumbotron {
@@ -9,6 +10,7 @@
   color: white;
   text-align: center;
   font-family: cambria;
+
 }
 
 .about-me {
@@ -81,11 +83,11 @@ h5 {
   color: #DC143C;
 }
 
-a{
+a {
   color: white;
-
 }
-p{
-  font-family:cambria;
-  font-size:16px;
+
+p {
+  font-family: cambria;
+  font-size: 16px;
 }
